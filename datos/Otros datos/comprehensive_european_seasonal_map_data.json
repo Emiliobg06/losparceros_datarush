@@ -1,0 +1,425 @@
+[
+  {
+    "country_code": "ALB",
+    "country_name": "Albania",
+    "total_flights": 428,
+    "avg_monthly_flights": 21.5,
+    "avg_monthly_holidays": 2.3,
+    "seasonal_travel_holiday_correlation": -0.395,
+    "data_quality": "seasonal_analysis"
+  },
+  {
+    "country_code": "AUT",
+    "country_name": "Austria",
+    "total_flights": 527867,
+    "avg_monthly_flights": 12619.2,
+    "avg_monthly_holidays": 2.51,
+    "seasonal_travel_holiday_correlation": -0.444,
+    "data_quality": "seasonal_analysis"
+  },
+  {
+    "country_code": "BEL",
+    "country_name": "Belgium",
+    "total_flights": 502927,
+    "avg_monthly_flights": 12019.7,
+    "avg_monthly_holidays": 2.09,
+    "seasonal_travel_holiday_correlation": -0.224,
+    "data_quality": "seasonal_analysis"
+  },
+  {
+    "country_code": "BGR",
+    "country_name": "Bulgaria",
+    "total_flights": 80035,
+    "avg_monthly_flights": 1941.3,
+    "avg_monthly_holidays": 2.48,
+    "seasonal_travel_holiday_correlation": -0.273,
+    "data_quality": "seasonal_analysis"
+  },
+  {
+    "country_code": "BIH",
+    "country_name": "Bosnia and Herzegovina",
+    "total_flights": 6,
+    "avg_monthly_flights": 1.2,
+    "avg_monthly_holidays": 1.98,
+    "seasonal_travel_holiday_correlation": 0.809,
+    "data_quality": "seasonal_analysis"
+  },
+  {
+    "country_code": "BLR",
+    "country_name": "Belarus",
+    "total_flights": 30510,
+    "avg_monthly_flights": 738.0,
+    "avg_monthly_holidays": 2.56,
+    "seasonal_travel_holiday_correlation": 0.048,
+    "data_quality": "seasonal_analysis"
+  },
+  {
+    "country_code": "CHE",
+    "country_name": "Switzerland",
+    "total_flights": 749962,
+    "avg_monthly_flights": 17905.7,
+    "avg_monthly_holidays": 3.1,
+    "seasonal_travel_holiday_correlation": 0.211,
+    "data_quality": "seasonal_analysis"
+  },
+  {
+    "country_code": "CYP",
+    "country_name": "Cyprus",
+    "total_flights": 84863,
+    "avg_monthly_flights": 2050.8,
+    "avg_monthly_holidays": 2.2,
+    "seasonal_travel_holiday_correlation": -0.157,
+    "data_quality": "seasonal_analysis"
+  },
+  {
+    "country_code": "CZE",
+    "country_name": "Czech Republic",
+    "total_flights": 231052,
+    "avg_monthly_flights": 5545.4,
+    "avg_monthly_holidays": 1.68,
+    "seasonal_travel_holiday_correlation": 0.104,
+    "data_quality": "seasonal_analysis"
+  },
+  {
+    "country_code": "DEU",
+    "country_name": "Germany",
+    "total_flights": 2780612,
+    "avg_monthly_flights": 66555.2,
+    "avg_monthly_holidays": 4.78,
+    "seasonal_travel_holiday_correlation": 0.466,
+    "data_quality": "seasonal_analysis"
+  },
+  {
+    "country_code": "DNK",
+    "country_name": "Denmark",
+    "total_flights": 499117,
+    "avg_monthly_flights": 11927.0,
+    "avg_monthly_holidays": 2.77,
+    "seasonal_travel_holiday_correlation": 0.415,
+    "data_quality": "seasonal_analysis"
+  },
+  {
+    "country_code": "ESP",
+    "country_name": "Spain",
+    "total_flights": 2152609,
+    "avg_monthly_flights": 51664.6,
+    "avg_monthly_holidays": 4.9,
+    "seasonal_travel_holiday_correlation": 0.144,
+    "data_quality": "seasonal_analysis"
+  },
+  {
+    "country_code": "EST",
+    "country_name": "Estonia",
+    "total_flights": 57996,
+    "avg_monthly_flights": 1385.0,
+    "avg_monthly_holidays": 1.69,
+    "seasonal_travel_holiday_correlation": 0.057,
+    "data_quality": "seasonal_analysis"
+  },
+  {
+    "country_code": "FIN",
+    "country_name": "Finland",
+    "total_flights": 241132,
+    "avg_monthly_flights": 5747.8,
+    "avg_monthly_holidays": 1.96,
+    "seasonal_travel_holiday_correlation": 0.035,
+    "data_quality": "seasonal_analysis"
+  },
+  {
+    "country_code": "FRA",
+    "country_name": "France",
+    "total_flights": 1961497,
+    "avg_monthly_flights": 46968.5,
+    "avg_monthly_holidays": 2.3,
+    "seasonal_travel_holiday_correlation": -0.018,
+    "data_quality": "seasonal_analysis"
+  },
+  {
+    "country_code": "GBR",
+    "country_name": "United Kingdom",
+    "total_flights": 2998949,
+    "avg_monthly_flights": 71750.6,
+    "avg_monthly_holidays": 2.61,
+    "seasonal_travel_holiday_correlation": -0.441,
+    "data_quality": "seasonal_analysis"
+  },
+  {
+    "country_code": "GGY",
+    "country_name": "Guernsey",
+    "total_flights": 28765,
+    "avg_monthly_flights": 688.7,
+    "avg_monthly_holidays": 2.24,
+    "seasonal_travel_holiday_correlation": 0.401,
+    "data_quality": "seasonal_analysis"
+  },
+  {
+    "country_code": "GIB",
+    "country_name": "Gibraltar",
+    "total_flights": 5770,
+    "avg_monthly_flights": 136.2,
+    "avg_monthly_holidays": 1.7,
+    "seasonal_travel_holiday_correlation": 0.205,
+    "data_quality": "seasonal_analysis"
+  },
+  {
+    "country_code": "GRC",
+    "country_name": "Greece",
+    "total_flights": 117573,
+    "avg_monthly_flights": 2890.0,
+    "avg_monthly_holidays": 1.34,
+    "seasonal_travel_holiday_correlation": -0.369,
+    "data_quality": "seasonal_analysis"
+  },
+  {
+    "country_code": "HRV",
+    "country_name": "Croatia",
+    "total_flights": 3173,
+    "avg_monthly_flights": 84.0,
+    "avg_monthly_holidays": 1.71,
+    "seasonal_travel_holiday_correlation": -0.116,
+    "data_quality": "seasonal_analysis"
+  },
+  {
+    "country_code": "HUN",
+    "country_name": "Hungary",
+    "total_flights": 188472,
+    "avg_monthly_flights": 4504.9,
+    "avg_monthly_holidays": 2.05,
+    "seasonal_travel_holiday_correlation": -0.052,
+    "data_quality": "seasonal_analysis"
+  },
+  {
+    "country_code": "IMN",
+    "country_name": "Isle of Man",
+    "total_flights": 18360,
+    "avg_monthly_flights": 438.0,
+    "avg_monthly_holidays": 1.4,
+    "seasonal_travel_holiday_correlation": -0.284,
+    "data_quality": "seasonal_analysis"
+  },
+  {
+    "country_code": "IRL",
+    "country_name": "Ireland",
+    "total_flights": 467495,
+    "avg_monthly_flights": 11163.8,
+    "avg_monthly_holidays": 1.67,
+    "seasonal_travel_holiday_correlation": -0.384,
+    "data_quality": "seasonal_analysis"
+  },
+  {
+    "country_code": "ITA",
+    "country_name": "Italy",
+    "total_flights": 1573434,
+    "avg_monthly_flights": 37660.6,
+    "avg_monthly_holidays": 2.24,
+    "seasonal_travel_holiday_correlation": -0.242,
+    "data_quality": "seasonal_analysis"
+  },
+  {
+    "country_code": "JEY",
+    "country_name": "Jersey",
+    "total_flights": 32169,
+    "avg_monthly_flights": 768.2,
+    "avg_monthly_holidays": 1.74,
+    "seasonal_travel_holiday_correlation": 0.274,
+    "data_quality": "seasonal_analysis"
+  },
+  {
+    "country_code": "LIE",
+    "country_name": "Liechtenstein",
+    "total_flights": 32536,
+    "avg_monthly_flights": 772.2,
+    "avg_monthly_holidays": 2.32,
+    "seasonal_travel_holiday_correlation": -0.312,
+    "data_quality": "seasonal_analysis"
+  },
+  {
+    "country_code": "LTU",
+    "country_name": "Lithuania",
+    "total_flights": 65775,
+    "avg_monthly_flights": 1572.9,
+    "avg_monthly_holidays": 1.94,
+    "seasonal_travel_holiday_correlation": -0.303,
+    "data_quality": "seasonal_analysis"
+  },
+  {
+    "country_code": "LUX",
+    "country_name": "Luxembourg",
+    "total_flights": 121785,
+    "avg_monthly_flights": 2909.0,
+    "avg_monthly_holidays": 1.78,
+    "seasonal_travel_holiday_correlation": -0.065,
+    "data_quality": "seasonal_analysis"
+  },
+  {
+    "country_code": "LVA",
+    "country_name": "Latvia",
+    "total_flights": 74467,
+    "avg_monthly_flights": 1981.5,
+    "avg_monthly_holidays": 2.4,
+    "seasonal_travel_holiday_correlation": 0.567,
+    "data_quality": "seasonal_analysis"
+  },
+  {
+    "country_code": "MDA",
+    "country_name": "Moldova",
+    "total_flights": 23,
+    "avg_monthly_flights": 3.3,
+    "avg_monthly_holidays": 3.09,
+    "seasonal_travel_holiday_correlation": -0.065,
+    "data_quality": "seasonal_analysis"
+  },
+  {
+    "country_code": "MKD",
+    "country_name": "North Macedonia",
+    "total_flights": 4,
+    "avg_monthly_flights": 1.0,
+    "avg_monthly_holidays": 2.3,
+    "seasonal_travel_holiday_correlation": 0.0,
+    "data_quality": "seasonal_analysis"
+  },
+  {
+    "country_code": "MLT",
+    "country_name": "Malta",
+    "total_flights": 95422,
+    "avg_monthly_flights": 2277.5,
+    "avg_monthly_holidays": 2.14,
+    "seasonal_travel_holiday_correlation": -0.205,
+    "data_quality": "seasonal_analysis"
+  },
+  {
+    "country_code": "MNE",
+    "country_name": "Montenegro",
+    "total_flights": 4192,
+    "avg_monthly_flights": 142.6,
+    "avg_monthly_holidays": 2.45,
+    "seasonal_travel_holiday_correlation": 0.105,
+    "data_quality": "seasonal_analysis"
+  },
+  {
+    "country_code": "NLD",
+    "country_name": "Netherlands",
+    "total_flights": 948977,
+    "avg_monthly_flights": 22645.3,
+    "avg_monthly_holidays": 2.82,
+    "seasonal_travel_holiday_correlation": 0.185,
+    "data_quality": "seasonal_analysis"
+  },
+  {
+    "country_code": "NOR",
+    "country_name": "Norway",
+    "total_flights": 631940,
+    "avg_monthly_flights": 15119.7,
+    "avg_monthly_holidays": 3.75,
+    "seasonal_travel_holiday_correlation": -0.155,
+    "data_quality": "seasonal_analysis"
+  },
+  {
+    "country_code": "POL",
+    "country_name": "Poland",
+    "total_flights": 521273,
+    "avg_monthly_flights": 12499.4,
+    "avg_monthly_holidays": 2.5,
+    "seasonal_travel_holiday_correlation": 0.193,
+    "data_quality": "seasonal_analysis"
+  },
+  {
+    "country_code": "PRT",
+    "country_name": "Portugal",
+    "total_flights": 670032,
+    "avg_monthly_flights": 16039.7,
+    "avg_monthly_holidays": 1.83,
+    "seasonal_travel_holiday_correlation": -0.213,
+    "data_quality": "seasonal_analysis"
+  },
+  {
+    "country_code": "ROU",
+    "country_name": "Romania",
+    "total_flights": 199137,
+    "avg_monthly_flights": 4763.8,
+    "avg_monthly_holidays": 2.42,
+    "seasonal_travel_holiday_correlation": 0.031,
+    "data_quality": "seasonal_analysis"
+  },
+  {
+    "country_code": "RUS",
+    "country_name": "Russia",
+    "total_flights": 257299,
+    "avg_monthly_flights": 6189.4,
+    "avg_monthly_holidays": 2.6,
+    "seasonal_travel_holiday_correlation": 0.216,
+    "data_quality": "seasonal_analysis"
+  },
+  {
+    "country_code": "SMR",
+    "country_name": "San Marino",
+    "total_flights": 6717,
+    "avg_monthly_flights": 159.8,
+    "avg_monthly_holidays": 1.78,
+    "seasonal_travel_holiday_correlation": -0.325,
+    "data_quality": "seasonal_analysis"
+  },
+  {
+    "country_code": "SRB",
+    "country_name": "Serbia",
+    "total_flights": 127934,
+    "avg_monthly_flights": 3082.8,
+    "avg_monthly_holidays": 2.29,
+    "seasonal_travel_holiday_correlation": -0.296,
+    "data_quality": "seasonal_analysis"
+  },
+  {
+    "country_code": "SVK",
+    "country_name": "Slovakia",
+    "total_flights": 35372,
+    "avg_monthly_flights": 854.9,
+    "avg_monthly_holidays": 2.73,
+    "seasonal_travel_holiday_correlation": -0.063,
+    "data_quality": "seasonal_analysis"
+  },
+  {
+    "country_code": "SVN",
+    "country_name": "Slovenia",
+    "total_flights": 28096,
+    "avg_monthly_flights": 676.8,
+    "avg_monthly_holidays": 1.7,
+    "seasonal_travel_holiday_correlation": -0.107,
+    "data_quality": "seasonal_analysis"
+  },
+  {
+    "country_code": "SWE",
+    "country_name": "Sweden",
+    "total_flights": 412097,
+    "avg_monthly_flights": 9831.5,
+    "avg_monthly_holidays": 1.95,
+    "seasonal_travel_holiday_correlation": 0.734,
+    "data_quality": "seasonal_analysis"
+  },
+  {
+    "country_code": "TUR",
+    "country_name": "Turkey",
+    "total_flights": 795016,
+    "avg_monthly_flights": 18948.3,
+    "avg_monthly_holidays": 2.45,
+    "seasonal_travel_holiday_correlation": 0.73,
+    "data_quality": "seasonal_analysis"
+  },
+  {
+    "country_code": "UKR",
+    "country_name": "Ukraine",
+    "total_flights": 6733,
+    "avg_monthly_flights": 1683.2,
+    "avg_monthly_holidays": 3.0,
+    "seasonal_travel_holiday_correlation": -0.082,
+    "data_quality": "seasonal_analysis"
+  },
+  {
+    "country_code": "VAT",
+    "country_name": "Vatican City",
+    "total_flights": 9846,
+    "avg_monthly_flights": 234.9,
+    "avg_monthly_holidays": 2.4,
+    "seasonal_travel_holiday_correlation": -0.099,
+    "data_quality": "seasonal_analysis"
+  }
+]
